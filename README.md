@@ -5,17 +5,17 @@ A simple, interactive Java console application to manage plain text notes — wr
 ## 🚀 Features
 
 - **Create Notes** – Write custom content to `JavaFile1.txt`.
-- 
+  
 - **View Notes** – Display contents of your saved files.
-- 
+  
 - **Auto Generate** – Add default content to `JavaFile2.txt`.
-- 
+  
 - **Copy Notes** – Copy all content from `JavaFile1.txt` to `JavaFile2.txt`.
-- 
+ 
 - **Analyze Notes** – Get statistics: characters, words, lines, and word match count.
-- 
+ 
 - **Exit Anytime** – Cleanly close the app when done.
-- 
+ 
 
 ## 🛠 How to Use
 
@@ -49,7 +49,9 @@ java SimpleNotesApp
  
 Choose:
 
+
 📎 Notes
+
 
 Files are stored in the notes/ directory (auto-created on first run).
 
